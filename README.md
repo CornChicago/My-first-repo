@@ -1,2 +1,2 @@
-# My-first-repo minor update
+# My-first-repo
 Coursera Version Control
